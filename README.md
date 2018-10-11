@@ -1,7 +1,7 @@
 # CETIIB-Research-Project
 CAS
 
-This repository contains the files for a University of Cambridge CETIIB research project: Setting up a Framework for the Evoluionary Optimisation of Complex Adaptive Systems.
+This repository contains the files for a University of Cambridge CETIIB research project: Setting up a Framework for the Evolutionary Optimisation of Complex Adaptive Systems.
 
 Researchers:
 Mohammed-Ummer Taahir (mut21@cam.ac.uk)
